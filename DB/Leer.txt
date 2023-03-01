@@ -1,0 +1,1 @@
+Favor, ejecutar el script de base de datos varias veces, para asegurar que cada uno de los objetos de base de datos se creen correctamente
